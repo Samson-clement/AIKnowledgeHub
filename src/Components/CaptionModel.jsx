@@ -49,7 +49,7 @@ const CaptionModel = () => {
     },
         {
           headers: {
-            Authorization: "Bearer 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",
+            Authorization: "Bearer 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",
             "Content-Type": "application/json"
           },
         }

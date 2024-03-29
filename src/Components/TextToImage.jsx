@@ -35,7 +35,7 @@ const TextToImage = () => {
         "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0",
         data,
         {
-          headers: { Authorization: "Bearer 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" },
+          headers: { Authorization: "Bearer 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" },
           responseType: 'blob'
         }
       );
