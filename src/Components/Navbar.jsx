@@ -13,7 +13,7 @@ const navigation = [
   { name: 'How AI Works', href: '/HowAiWorks', current: false },
   { name: 'History of AI', href: '/History', current: false },
   { name: 'Threats & Future', href: '/Future', current: false },
-  { name: 'Start Working with AI', href: '/Start', current: false },
+  { name: 'AI Model Mechanics', href: '/Start', current: false },
   { name: 'About', href: '/About', current: false },
 ]
 

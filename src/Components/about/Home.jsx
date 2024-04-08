@@ -15,9 +15,7 @@ const Home = () => {
             I'm an Arab Open University Student
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have had a wonderful experience in my 4 years of university life and learning Information Technology and Communications.
-            This website is my final year graduation project under Dr. Moneif Mohammed Abdelkareem. Currently, I love to work on web application using technologies like
-            React, Tailwind, HTML, CSS, JS and I also do Competitive Programming with Dr. Alhussain Aly.
+            My name is Samson Clement, and I've been fortunate to experience an enriching four-year journey through university, specializing in Information Technology and Communications. This website serves as the capstone to my academic adventure, guided by the expertise of Dr. Moneif Mohammed Abdelkareem for my final year graduation project.Alongside this, I engage in Competitive Programming under the mentorship of Dr. Alhussain Aly, constantly challenging myself to solve complex problems and enhance my coding skills.
           </p>
 
           <div>
@@ -39,7 +37,7 @@ const Home = () => {
           <img
             src={HeroImage}
             alt="my profile"
-            className="rounded-2xl mx-auto w-2/3 md:w-full ml-20"
+            className="rounded-2xl mx-auto w-2/3 mb-[100px] ml-[130px] mr-0 md:w-full ml-20"
           />
         </div>
       </div>

@@ -23,7 +23,7 @@ const Home = () => {
           <div className="flex flex-col lg:flex-row w-full lg:m-3">
             <div className='lg:w-1/3'>
               <div className="w-10 h-1 bg-gradient-to-r from-gray-100 to-purple-800 mb-1"></div>
-              <h1 className="font-bold text-white text-lg max-md:mb-3">What is A.I.?</h1>
+              <h1 className="font-bold text-white text-xl max-md:mb-3">What is A.I.?</h1>
             </div>
             <div className='lg:w-2/3'>
               <p>Artificial Intelligence (AI), is a field of computer science that creates systems capable of performing tasks that would typically require human intelligence. These tasks include learning, reasoning, problem-solving, understanding language, and recognizing patterns. AI can process large amounts of data and make decisions, learn from experiences, adapt to new inputs, and perform human-like tasks with increasing autonomy.</p>
@@ -57,7 +57,7 @@ const Home = () => {
                 <div className="w-10 h-1 flex flex-col bg-gradient-to-r from-gray-100 to-purple-800 mb-1"></div>
                 <h1 className="font-bold text-white text-lg">Question Answering Chat Model</h1></div>
               <p>
-                A Chat or Question Answering model utilizes a given question and context to generate relevant responses or answers, aiding in various tasks such as virtual assistance, information retrieval etc.</p>
+                A Chat or Question Answering model utilizes a given question to generate relevant responses or answers, aiding in various tasks such as virtual assistance, information retrieval etc.</p>
               <Link to="/chat" className="mt-6 lg:mt-12 inline-block text-white bg-purple-500 rounded px-6 py-2 hover:bg-purple-400">Try it Out</Link>
 
             </div>
@@ -65,7 +65,7 @@ const Home = () => {
         </div>
       </div>
 
-      <div className="w-full h-full flex flex-col lg:flex-row items-center mx-8 lg:px-20 my-16 text-white ">
+      {/* <div className="w-full h-full flex flex-col lg:flex-row items-center mx-8 lg:px-20 my-16 text-white ">
         <div className='lg:w-2/5 h-full m-3'>
           <h1 className="font-bold text-white text-xl lg:text-3xl m-5">“Our intelligence is what makes us human, and AI is an extension of that quality.” <br/> <br/> <hr/> <br/> <h3 style={{fontSize:"20"}}>~Yann LeCun</h3></h1>
           
@@ -117,7 +117,7 @@ const Home = () => {
           </div>
 
         </div>
-      </div>
+      </div> */}
 
     
 
