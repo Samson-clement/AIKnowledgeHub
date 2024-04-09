@@ -11,11 +11,12 @@ const About = () => {
   return (
     <div className='bg-black text-white min-h-screen p-5 md:p-10 '>
     <Home />
-    <Abot />
+
+    {/* <Abot />
     <Experience />
     <Contact />
 
-    <SocialLinks />
+    <SocialLinks /> */}
 
     
     </div>

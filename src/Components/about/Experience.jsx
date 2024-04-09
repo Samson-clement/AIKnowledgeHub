@@ -71,7 +71,7 @@ const Experience = () => {
   return (
     <div
       name="experience"
-      className=" w-full h-screen"
+      className=" w-full pt-10 pb-10 min-h-screen"
     >
       <div className="max-w-screen-lg mt-[300px] py-200 mx-auto p-4 flex flex-col justify-center w-full  text-white">
         <div>
